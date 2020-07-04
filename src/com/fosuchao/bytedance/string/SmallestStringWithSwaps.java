@@ -1,4 +1,4 @@
-package com.fosuchao.bytedance;
+package com.fosuchao.bytedance.string;
 
 import java.util.*;
 

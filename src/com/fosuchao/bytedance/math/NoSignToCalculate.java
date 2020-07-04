@@ -1,4 +1,4 @@
-package com.fosuchao.bytedance;
+package com.fosuchao.bytedance.math;
 
 /**
  * @description: 无加号实现加法，无除号实现除法
