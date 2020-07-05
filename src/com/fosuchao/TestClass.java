@@ -14,9 +14,11 @@ import java.util.*;
 public class TestClass {
 
     public static void main(String[] args) {
-        System.out.println(add(2, 3));
-        int a = 49;
-        System.out.println((char) a);
+//        System.out.println(add(2, 3));
+//        int a = 49;
+//        System.out.println((char) a);
+        System.out.println(new TestClass().hashCode());
+        System.out.println(new TestClass());
     }
 
     static int add(int num1, int num2)
