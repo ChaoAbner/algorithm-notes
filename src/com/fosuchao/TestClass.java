@@ -17,7 +17,6 @@ public class TestClass {
 //        System.out.println(add(2, 3));
 //        int a = 49;
 //        System.out.println((char) a);
-        System.out.println(new TestClass().hashCode());
         System.out.println(new TestClass());
     }
 
