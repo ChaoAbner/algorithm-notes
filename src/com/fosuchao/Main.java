@@ -16,6 +16,7 @@ public class Main {
     public static void main(String[] args) {
         StringBuilder s = new StringBuilder();
         add("1.28", "1.71");
+        System.out.println();
     }
 
     public static String add (String num1, String num2) {
