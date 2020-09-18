@@ -14,9 +14,24 @@ public class Main {
     private final static Random random = new Random(System.currentTimeMillis());
 
     public static void main(String[] args) {
-        StringBuilder s = new StringBuilder();
-        add("1.28", "1.71");
-        System.out.println();
+        Vector<Integer> array = new Vector<>();
+
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                while (true) {
+                    array.add(1);
+                }
+            }
+        }).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                while (true) {
+                    array.add(1);
+                }
+            }
+        }).start();
     }
 
     public static String add (String num1, String num2) {

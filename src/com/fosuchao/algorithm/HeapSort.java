@@ -11,7 +11,7 @@ import java.util.Random;
 public class HeapSort {
     private final static int SIZE = 10;
 
-    private final static Random random = new Random(System.currentTimeMillis());
+    private final static Random random = new Random();
 
     public static void main(String[] args) throws Exception {
         int[] nums = new int[SIZE];

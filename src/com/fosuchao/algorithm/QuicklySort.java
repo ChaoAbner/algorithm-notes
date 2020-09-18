@@ -1,6 +1,8 @@
 package com.fosuchao.algorithm;
 
 import java.util.Arrays;
+import java.util.HashMap;
+import java.util.Scanner;
 
 /**
  * @Description:

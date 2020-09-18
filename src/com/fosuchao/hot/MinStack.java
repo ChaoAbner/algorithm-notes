@@ -1,6 +1,5 @@
 package com.fosuchao.hot;
 
-import java.lang.invoke.VarHandle;
 import java.util.Stack;
 
 /**

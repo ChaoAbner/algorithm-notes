@@ -1,6 +1,5 @@
 package com.fosuchao.random;
 
-import com.sun.jdi.IntegerType;
 import org.junit.Test;
 
 import java.util.Arrays;
