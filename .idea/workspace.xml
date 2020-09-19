@@ -1,0 +1,629 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d13a81a5-2d29-404d-8b0a-9e67177263d5" name="Default Changelist" comment="[add] 算法练习">
+      <change afterPath="$PROJECT_DIR$/src/com/fosuchao/bytedance/enterprise/Num14.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/fosuchao/bytedance/enterprise/Num3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fosuchao/bytedance/enterprise/Num3.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/leetcode$ReverseLinklist.ic" NAME="ReverseLinklist Coverage Results" MODIFIED="1578031552086" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.fosuchao.exercise.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1gdNkh0q2MNRf378IRG4wUk2HvZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SearchEverywhereHistoryKey" value="SoftReference&#9;PSI&#9;JAVA://java.lang.ref.SoftReference&#10;Thread&#9;FILE&#9;jar://D:/JDK_12.0.2/lib/src.zip!/java.base/java/lang/Thread.java&#10;thead&#9;null&#9;null&#10;collection&#9;FILE&#9;jar://D:/JDK_12.0.2/lib/src.zip!/java.base/java/util/Collections.java&#10;sortset&#9;PSI&#9;JAVA://java.util.SortedSet&#10;stack&#9;FILE&#9;jar://D:/JDK_12.0.2/lib/src.zip!/java.base/java/util/Stack.java&#10;linked&#9;FILE&#9;jar://D:/JDK_12.0.2/lib/src.zip!/java.base/java/util/LinkedList.java&#10;Arr&#9;FILE&#9;jar://D:/JDK_12.0.2/lib/src.zip!/java.base/java/util/ArrayList.java&#10;Set&#9;PSI&#9;JAVA://java.util.Set&#10;HashMap&#9;PSI&#9;JAVA://java.util.HashMap&#10;map&#9;PSI&#9;JAVA://java.util.Map&#10;String&#9;FILE&#9;jar://D:/JDK_12.0.2/lib/src.zip!/java.base/java/lang/String.java&#10;reentrantLo&#9;PSI&#9;JAVA://java.util.concurrent.locks.ReentrantLock&#10;hashmap&#9;PSI&#9;JAVA://java.util.concurrent.ConcurrentHashMap&#10;Stack&#9;PSI&#9;JAVA://java.util.Stack&#10;stringbuilder&#9;PSI&#9;JAVA://java.lang.StringBuilder&#10;arrayList&#9;FILE&#9;jar://D:/JDK_12.0.2/lib/src.zip!/java.base/java/util/ArrayList.java&#10;Arrays&#9;FILE&#9;jar://D:/JDK_12.0.2/lib/src.zip!/java.base/java/util/Arrays.java&#10;Comparator&#9;FILE&#9;jar://D:/JDK_12.0.2/lib/src.zip!/java.base/java/util/Comparator.java&#10;arraylist&#9;PSI&#9;JAVA://java.util.ArrayList&#10;abstractqueuesyn&#9;PSI&#9;JAVA://java.util.concurrent.locks.AbstractQueuedSynchronizer&#10;object&#9;PSI&#9;JAVA://java.lang.Object" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.splitter.proportion" value="0.25484198" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\java\project\test\leetcode\src\com\fosuchao" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fosuchao.Main" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fosuchao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Num10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fosuchao.bytedance.enterprise.Num10" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fosuchao.bytedance.enterprise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Num215" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fosuchao.bytedance.enterprise.Num215" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fosuchao.bytedance.enterprise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Num5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fosuchao.bytedance.enterprise.Num5" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fosuchao.bytedance.enterprise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Num54" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fosuchao.bytedance.enterprise.Num54" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fosuchao.bytedance.enterprise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Num54" />
+      <item itemvalue="Application.Num215" />
+      <item itemvalue="Application.Num5" />
+      <item itemvalue="Application.Num10" />
+      <item itemvalue="Application.Main" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Num10" />
+        <item itemvalue="Application.Num5" />
+        <item itemvalue="Application.Num215" />
+        <item itemvalue="Application.Num54" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d13a81a5-2d29-404d-8b0a-9e67177263d5" name="Default Changelist" comment="" />
+      <created>1578021900697</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578021900697</updated>
+      <workItem from="1578021903201" duration="10432000" />
+      <workItem from="1578052427155" duration="8425000" />
+      <workItem from="1578101237711" duration="3697000" />
+      <workItem from="1578123284204" duration="8182000" />
+      <workItem from="1578224328193" duration="5385000" />
+      <workItem from="1578378314715" duration="3948000" />
+      <workItem from="1578445526259" duration="182000" />
+      <workItem from="1578463831735" duration="12094000" />
+      <workItem from="1578492253461" duration="1269000" />
+      <workItem from="1578534403941" duration="3269000" />
+      <workItem from="1578709898128" duration="9723000" />
+      <workItem from="1578796799991" duration="2579000" />
+      <workItem from="1579142551118" duration="3051000" />
+      <workItem from="1579229431842" duration="1466000" />
+      <workItem from="1579310601143" duration="8896000" />
+      <workItem from="1579403628591" duration="598000" />
+      <workItem from="1579483786205" duration="1191000" />
+      <workItem from="1579765378542" duration="6465000" />
+      <workItem from="1580004451302" duration="26248000" />
+      <workItem from="1580089846805" duration="20011000" />
+      <workItem from="1580131504771" duration="1354000" />
+      <workItem from="1580174276613" duration="444000" />
+      <workItem from="1580202545240" duration="9131000" />
+      <workItem from="1580459061362" duration="16632000" />
+      <workItem from="1580521399839" duration="12884000" />
+      <workItem from="1580642800533" duration="2355000" />
+      <workItem from="1580815455935" duration="8090000" />
+      <workItem from="1580989460185" duration="6146000" />
+      <workItem from="1581212811761" duration="10787000" />
+      <workItem from="1581343193983" duration="4911000" />
+      <workItem from="1581386950107" duration="12695000" />
+      <workItem from="1581469090624" duration="4181000" />
+      <workItem from="1581496630479" duration="9168000" />
+      <workItem from="1581556573188" duration="1403000" />
+      <workItem from="1581576077997" duration="13037000" />
+      <workItem from="1581667768041" duration="4804000" />
+      <workItem from="1581731542455" duration="4079000" />
+      <workItem from="1581755085544" duration="8668000" />
+      <workItem from="1581818507394" duration="2385000" />
+      <workItem from="1581903983129" duration="2913000" />
+      <workItem from="1582012277905" duration="1857000" />
+      <workItem from="1582159403683" duration="2488000" />
+      <workItem from="1582282588036" duration="4220000" />
+      <workItem from="1582335805240" duration="84000" />
+      <workItem from="1582546690374" duration="7339000" />
+      <workItem from="1582594961277" duration="3511000" />
+      <workItem from="1582622113222" duration="6408000" />
+      <workItem from="1582804266275" duration="1530000" />
+      <workItem from="1582985713109" duration="1108000" />
+      <workItem from="1583592770642" duration="1346000" />
+      <workItem from="1583630216469" duration="123000" />
+      <workItem from="1583646683056" duration="17757000" />
+      <workItem from="1583714677888" duration="1312000" />
+      <workItem from="1583764073646" duration="1790000" />
+      <workItem from="1583802009923" duration="4507000" />
+      <workItem from="1583897322377" duration="10169000" />
+      <workItem from="1583976453996" duration="1208000" />
+      <workItem from="1584017934935" duration="38000" />
+      <workItem from="1584018206379" duration="1969000" />
+      <workItem from="1584082547235" duration="5290000" />
+      <workItem from="1584146605746" duration="6115000" />
+      <workItem from="1584193890714" duration="3837000" />
+      <workItem from="1584230507521" duration="5786000" />
+      <workItem from="1584250727408" duration="3834000" />
+      <workItem from="1584271501320" duration="597000" />
+      <workItem from="1584341377740" duration="8166000" />
+      <workItem from="1584405692556" duration="4538000" />
+      <workItem from="1584424899642" duration="3768000" />
+      <workItem from="1584586625185" duration="5817000" />
+      <workItem from="1584665623309" duration="3652000" />
+      <workItem from="1584683503678" duration="1545000" />
+      <workItem from="1584758956447" duration="594000" />
+      <workItem from="1584942970008" duration="7063000" />
+      <workItem from="1584978147685" duration="167000" />
+      <workItem from="1585009778802" duration="1699000" />
+      <workItem from="1585530990124" duration="1410000" />
+      <workItem from="1586531390715" duration="597000" />
+      <workItem from="1586572418154" duration="667000" />
+      <workItem from="1586595840041" duration="6863000" />
+      <workItem from="1587824928380" duration="781000" />
+      <workItem from="1591002413576" duration="1925000" />
+      <workItem from="1591060724176" duration="7312000" />
+      <workItem from="1591319569689" duration="6267000" />
+      <workItem from="1591426755723" duration="4014000" />
+      <workItem from="1591491485285" duration="4495000" />
+      <workItem from="1591599243769" duration="1303000" />
+      <workItem from="1592222350712" duration="694000" />
+      <workItem from="1592290556442" duration="1471000" />
+      <workItem from="1592639496855" duration="13000" />
+      <workItem from="1592647183279" duration="855000" />
+      <workItem from="1592715820943" duration="2965000" />
+      <workItem from="1592828274713" duration="1310000" />
+      <workItem from="1592873525721" duration="5298000" />
+      <workItem from="1593050054413" duration="10470000" />
+      <workItem from="1593220495222" duration="2994000" />
+      <workItem from="1593335682792" duration="3130000" />
+      <workItem from="1593390197711" duration="574000" />
+      <workItem from="1593525306345" duration="3055000" />
+      <workItem from="1593570258756" duration="5051000" />
+      <workItem from="1593848620440" duration="15850000" />
+      <workItem from="1593912821459" duration="5921000" />
+      <workItem from="1593960288652" duration="85000" />
+      <workItem from="1594268525445" duration="308000" />
+      <workItem from="1594647937261" duration="1228000" />
+      <workItem from="1595344219538" duration="628000" />
+      <workItem from="1595942616043" duration="723000" />
+      <workItem from="1597483130426" duration="6015000" />
+      <workItem from="1597800988603" duration="1566000" />
+      <workItem from="1597888683168" duration="4759000" />
+      <workItem from="1598240757347" duration="3987000" />
+      <workItem from="1598434689582" duration="183000" />
+      <workItem from="1598440661223" duration="2738000" />
+      <workItem from="1598522189731" duration="1375000" />
+      <workItem from="1598582574077" duration="1926000" />
+      <workItem from="1598599454862" duration="1346000" />
+      <workItem from="1598600824937" duration="3937000" />
+      <workItem from="1598619740698" duration="32000" />
+      <workItem from="1598620036396" duration="15514000" />
+      <workItem from="1598750630340" duration="13887000" />
+      <workItem from="1598840323837" duration="5664000" />
+      <workItem from="1600390130418" duration="2957000" />
+      <workItem from="1600398903085" duration="9949000" />
+    </task>
+    <task id="LOCAL-00001" summary="add some algorithm of bytedance">
+      <created>1593874627715</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1593874627715</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add some algorithm of bytedance">
+      <created>1593960341994</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1593960341994</updated>
+    </task>
+    <task id="LOCAL-00003" summary="[add] 单例">
+      <created>1597502408829</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1597502408829</updated>
+    </task>
+    <task id="LOCAL-00004" summary="[add] leetcode练习">
+      <created>1600399287407</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1600399287407</updated>
+    </task>
+    <task id="LOCAL-00005" summary="[add] 算法练习">
+      <created>1600437649552</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1600437649552</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TestClass_add - 2020.02.13 at 09h 18m 09s.xml">
+      <configuration name="TestClass.add" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestClass_add - 2020.02.18 at 15h 51m 31s.xml">
+      <configuration name="TestClass.add" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestClass_add - 2020.02.18 at 15h 51m 42s.xml">
+      <configuration name="TestClass.add" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Main_test - 2020.04.11 at 17h 38m 45s.xml">
+      <configuration name="Main.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Main_test - 2020.04.11 at 17h 39m 07s.xml">
+      <configuration name="Main.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Main_test - 2020.04.11 at 17h 39m 12s.xml">
+      <configuration name="Main.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Main_test - 2020.04.11 at 19h 12m 37s.xml">
+      <configuration name="Main.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Main_test - 2020.04.11 at 19h 13m 18s.xml">
+      <configuration name="Main.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Main_test - 2020.04.11 at 19h 19m 12s.xml">
+      <configuration name="Main.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Main_test - 2020.04.11 at 19h 21m 17s.xml">
+      <configuration name="Main.test" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add some algorithm of bytedance" />
+    <MESSAGE value="[add] 单例" />
+    <MESSAGE value="[add] leetcode练习" />
+    <MESSAGE value="[add] 算法练习" />
+    <option name="LAST_COMMIT_MESSAGE" value="[add] 算法练习" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="249" y="0" key="#Project_Structure" timestamp="1598440685946">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="249" y="0" key="#Project_Structure/0.0.1536.834/1920.0.1858.1080@0.0.1536.834" timestamp="1598440685946" />
+    <state x="223" y="72" width="1089" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598442949059">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="223" y="72" width="1089" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834/1920.0.1858.1080@0.0.1536.834" timestamp="1598442949059" />
+    <state x="2645" y="433" width="474" height="221" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1598841404353">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2645" y="433" width="474" height="221" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.834/1920.0.1920.1080@1920.0.1920.1080" timestamp="1598841404353" />
+    <state width="1493" height="88" key="GridCell.Tab.0.bottom" timestamp="1600398874662">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="195" key="GridCell.Tab.0.bottom/0.0.1536.834/1920.0.1858.1080@0.0.1536.834" timestamp="1598585117064" />
+    <state width="1493" height="165" key="GridCell.Tab.0.bottom/0.0.1536.834/1920.0.1920.1080@0.0.1536.834" timestamp="1598782173010" />
+    <state width="1877" height="206" key="GridCell.Tab.0.bottom/0.0.1536.834/1920.0.1920.1080@1920.0.1920.1080" timestamp="1598845471422" />
+    <state width="1493" height="88" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1600398874662" />
+    <state width="1493" height="88" key="GridCell.Tab.0.center" timestamp="1600398874662">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="195" key="GridCell.Tab.0.center/0.0.1536.834/1920.0.1858.1080@0.0.1536.834" timestamp="1598585117063" />
+    <state width="1493" height="165" key="GridCell.Tab.0.center/0.0.1536.834/1920.0.1920.1080@0.0.1536.834" timestamp="1598782173010" />
+    <state width="1877" height="206" key="GridCell.Tab.0.center/0.0.1536.834/1920.0.1920.1080@1920.0.1920.1080" timestamp="1598845471422" />
+    <state width="1493" height="88" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1600398874662" />
+    <state width="1493" height="88" key="GridCell.Tab.0.left" timestamp="1600398874662">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="195" key="GridCell.Tab.0.left/0.0.1536.834/1920.0.1858.1080@0.0.1536.834" timestamp="1598585117063" />
+    <state width="1493" height="165" key="GridCell.Tab.0.left/0.0.1536.834/1920.0.1920.1080@0.0.1536.834" timestamp="1598782173009" />
+    <state width="1877" height="206" key="GridCell.Tab.0.left/0.0.1536.834/1920.0.1920.1080@1920.0.1920.1080" timestamp="1598845471422" />
+    <state width="1493" height="88" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1600398874662" />
+    <state width="1493" height="88" key="GridCell.Tab.0.right" timestamp="1600398874662">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="195" key="GridCell.Tab.0.right/0.0.1536.834/1920.0.1858.1080@0.0.1536.834" timestamp="1598585117063" />
+    <state width="1493" height="165" key="GridCell.Tab.0.right/0.0.1536.834/1920.0.1920.1080@0.0.1536.834" timestamp="1598782173010" />
+    <state width="1877" height="206" key="GridCell.Tab.0.right/0.0.1536.834/1920.0.1920.1080@1920.0.1920.1080" timestamp="1598845471422" />
+    <state width="1493" height="88" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1600398874662" />
+    <state x="234" y="124" key="SettingsEditor" timestamp="1600413296360">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="270" y="0" key="SettingsEditor/0.0.1536.834/1920.0.1858.1080@0.0.1536.834" timestamp="1598443081170" />
+    <state x="2272" y="128" key="SettingsEditor/0.0.1536.834/1920.0.1920.1080@1920.0.1920.1080" timestamp="1598601001357" />
+    <state x="234" y="124" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1600413296360" />
+    <state x="428" y="248" width="561" height="313" key="StructurePopup" timestamp="1600410280279">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="2462" y="276" width="561" height="405" key="StructurePopup/0.0.1536.834/1920.0.1920.1080@1920.0.1920.1080" timestamp="1598782898197" />
+    <state x="428" y="248" width="561" height="313" key="StructurePopup/0.0.1536.834@0.0.1536.834" timestamp="1600410280279" />
+    <state x="451" y="189" key="Vcs.Push.Dialog.v2" timestamp="1600437653830">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="451" y="189" key="Vcs.Push.Dialog.v2/-1920.0.1536.840/0.0.1920.1050@0.0.1920.1050" timestamp="1600437653830" />
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1600399318864" />
+    <state x="716" y="415" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600437634942">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="716" y="415" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-1920.0.1536.840/0.0.1920.1050@0.0.1920.1050" timestamp="1600437634942" />
+    <state x="573" y="330" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.834@0.0.1536.834" timestamp="1600399239282" />
+    <state x="195" y="153" width="1146" height="640" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1598666124279">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="195" y="153" width="1146" height="640" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.834/1920.0.1858.1080@0.0.1536.834" timestamp="1598443280561" />
+    <state x="195" y="153" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.834/1920.0.1920.1080@0.0.1536.834" timestamp="1598666124279" />
+    <state x="2505" y="0" width="750" height="1080" key="find.popup" timestamp="1598601599856">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="468" y="0" width="600" height="834" key="find.popup/0.0.1536.834/1920.0.1858.1080@0.0.1536.834" timestamp="1598443227057" />
+    <state x="2505" y="0" width="750" height="1080" key="find.popup/0.0.1536.834/1920.0.1920.1080@1920.0.1920.1080" timestamp="1598601599856" />
+    <state x="178" y="27" width="1194" height="779" key="new project wizard" timestamp="1598443204275">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="178" y="27" width="1194" height="779" key="new project wizard/0.0.1536.834/1920.0.1858.1080@0.0.1536.834" timestamp="1598443204275" />
+    <state x="425" y="189" key="run.anything.popup" timestamp="1600411732891">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="425" y="189" key="run.anything.popup/0.0.1536.834/1920.0.1858.1080@0.0.1536.834" timestamp="1598599469102" />
+    <state x="2451" y="245" key="run.anything.popup/0.0.1536.834/1920.0.1920.1080@1920.0.1920.1080" timestamp="1598783059802" />
+    <state x="425" y="189" key="run.anything.popup/0.0.1536.834@0.0.1536.834" timestamp="1600411732891" />
+    <state x="431" y="155" width="672" height="679" key="search.everywhere.popup" timestamp="1600410238005">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834/1920.0.1858.1080@0.0.1536.834" timestamp="1598599507022" />
+    <state x="431" y="155" width="672" height="679" key="search.everywhere.popup/0.0.1536.834/1920.0.1920.1080@0.0.1536.834" timestamp="1598782199887" />
+    <state x="2459" y="201" width="840" height="878" key="search.everywhere.popup/0.0.1536.834/1920.0.1920.1080@1920.0.1920.1080" timestamp="1598784313946" />
+    <state x="431" y="155" width="672" height="679" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1600410238005" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/fosuchao/hot/CombinationSum.java</url>
+          <line>97</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/fosuchao/hot/Permute.java</url>
+          <line>67</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/fosuchao/hot/MajorityElement.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/fosuchao/hot/FindDisappearedNumbers.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/fosuchao/hot/FindUnsortedSubarray.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/fosuchao/offer/MergeTwoSortList.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/fosuchao/hot/MergeTwoLists.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/fosuchao/offer/FindPath.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/fosuchao/offer/TreeConvertToList.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/fosuchao/offer/TreeDepth.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/fosuchao/offer/FindKthToTail.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/fosuchao/offer/KthNode.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/fosuchao/hot/Subsets.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/fosuchao/hot/Subsets.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/fosuchao/hot/CountBits.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/fosuchao/hot/BuildTree.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/fosuchao/hot/LRUCache.java</url>
+          <line>123</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/fosuchao/hot/MergeKLists.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="NONE" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/fosuchao/offer/Duplicate.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/fosuchao/offer/FindGreatestSumOfArray.java</url>
+          <line>13</line>
+          <properties class="com.fosuchao.offer.FindGreatestSumOfArray" method="findGreatestSumOfArray">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="69" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.StringIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="70" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="head.next" />
+        <watch expression="newTemp.next" />
+        <watch expression="head" />
+        <watch expression="temp.next" />
+        <watch expression="temp.next" />
+        <watch expression="head" />
+        <watch expression="temp" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
