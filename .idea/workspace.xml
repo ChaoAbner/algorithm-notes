@@ -23,7 +23,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d13a81a5-2d29-404d-8b0a-9e67177263d5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/fosuchao/offer/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/fosuchao/type/greedy/Candy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/fosuchao/type/greedy/LemonadeChange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/fosuchao/type/math/DistributeCandies.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/fosuchao/writtenexam/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/fosuchao/exercise/Bankers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/fosuchao/exercise/ReverseLinklist.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/fosuchao/offer/Permutation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fosuchao/offer/Permutation.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +60,6 @@
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
@@ -95,11 +103,11 @@
       </method>
     </configuration>
     <configuration name="Num10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.fosuchao.bytedance.enterprise.Num10" />
+      <option name="MAIN_CLASS_NAME" value="com.fosuchao.enterprise.bytedance.enterprise.Num10" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.fosuchao.bytedance.enterprise.*" />
+          <option name="PATTERN" value="com.fosuchao.enterprise.bytedance.enterprise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,11 +116,11 @@
       </method>
     </configuration>
     <configuration name="Num215" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.fosuchao.bytedance.enterprise.Num215" />
+      <option name="MAIN_CLASS_NAME" value="com.fosuchao.enterprise.bytedance.enterprise.Num215" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.fosuchao.bytedance.enterprise.*" />
+          <option name="PATTERN" value="com.fosuchao.enterprise.bytedance.enterprise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,11 +129,11 @@
       </method>
     </configuration>
     <configuration name="Num60" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.fosuchao.bytedance.enterprise.Num60" />
+      <option name="MAIN_CLASS_NAME" value="com.fosuchao.enterprise.bytedance.enterprise.Num60" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.fosuchao.bytedance.enterprise.*" />
+          <option name="PATTERN" value="com.fosuchao.enterprise.bytedance.enterprise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,14 +142,25 @@
       </method>
     </configuration>
     <configuration name="Num71" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.fosuchao.bytedance.enterprise.Num71" />
+      <option name="MAIN_CLASS_NAME" value="com.fosuchao.enterprise.bytedance.enterprise.Num71" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.fosuchao.bytedance.enterprise.*" />
+          <option name="PATTERN" value="com.fosuchao.enterprise.bytedance.enterprise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -300,6 +319,7 @@
       <workItem from="1604284503613" duration="507000" />
       <workItem from="1604286960642" duration="8884000" />
       <workItem from="1608865114894" duration="893000" />
+      <workItem from="1609205706202" duration="7560000" />
     </task>
     <task id="LOCAL-00001" summary="add some algorithm of bytedance">
       <created>1593874627715</created>
@@ -343,7 +363,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600481922121</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="修改项目结构">
+      <created>1609210656283</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1609210656283</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -367,30 +394,22 @@
     <MESSAGE value="[add] leetcode练习" />
     <MESSAGE value="[add] 算法练习" />
     <MESSAGE value="添加之前的算法记录" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加之前的算法记录" />
+    <MESSAGE value="修改项目结构" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改项目结构" />
   </component>
   <component name="WindowStateProjectService">
     <state x="694" y="348" key="#Notifications" timestamp="1600650885831">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="694" y="348" key="#Notifications/-1920.0.1536.840/0.0.1920.1050@0.0.1920.1050" timestamp="1600650885831" />
-    <state x="249" y="0" key="#Project_Structure" timestamp="1598440685946">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state x="249" y="0" key="#Project_Structure/0.0.1536.834/1920.0.1858.1080@0.0.1536.834" timestamp="1598440685946" />
     <state x="209" y="94" width="1089" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604297148090">
       <screen x="0" y="23" width="1440" height="822" />
     </state>
-    <state x="223" y="72" width="1089" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834/1920.0.1858.1080@0.0.1536.834" timestamp="1598442949059" />
     <state x="209" y="94" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.822/-221.-1057.1920.1057@0.23.1440.822" timestamp="1604297148090" />
     <state x="489" y="-685" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1604297917249">
       <screen x="-221" y="-1057" width="1920" height="1057" />
     </state>
     <state x="489" y="-685" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.23.1440.822/-221.-1057.1920.1057@-221.-1057.1920.1057" timestamp="1604297917249" />
-    <state x="2645" y="433" width="474" height="221" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1598841404353">
-      <screen x="1920" y="0" width="1920" height="1080" />
-    </state>
-    <state x="2645" y="433" width="474" height="221" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.834/1920.0.1920.1080@1920.0.1920.1080" timestamp="1598841404353" />
     <state x="569" y="333" key="Github.ShareDialog" timestamp="1604284841153">
       <screen x="0" y="23" width="1440" height="816" />
     </state>
@@ -399,34 +418,18 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1877" height="383" key="GridCell.Tab.0.bottom/-1920.0.1536.840/0.0.1920.1050@0.0.1920.1050" timestamp="1600699795660" />
-    <state width="1493" height="195" key="GridCell.Tab.0.bottom/0.0.1536.834/1920.0.1858.1080@0.0.1536.834" timestamp="1598585117064" />
-    <state width="1493" height="165" key="GridCell.Tab.0.bottom/0.0.1536.834/1920.0.1920.1080@0.0.1536.834" timestamp="1598782173010" />
-    <state width="1877" height="206" key="GridCell.Tab.0.bottom/0.0.1536.834/1920.0.1920.1080@1920.0.1920.1080" timestamp="1598845471422" />
-    <state width="1493" height="88" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1600398874662" />
     <state width="1877" height="383" key="GridCell.Tab.0.center" timestamp="1600699795660">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1877" height="383" key="GridCell.Tab.0.center/-1920.0.1536.840/0.0.1920.1050@0.0.1920.1050" timestamp="1600699795660" />
-    <state width="1493" height="195" key="GridCell.Tab.0.center/0.0.1536.834/1920.0.1858.1080@0.0.1536.834" timestamp="1598585117063" />
-    <state width="1493" height="165" key="GridCell.Tab.0.center/0.0.1536.834/1920.0.1920.1080@0.0.1536.834" timestamp="1598782173010" />
-    <state width="1877" height="206" key="GridCell.Tab.0.center/0.0.1536.834/1920.0.1920.1080@1920.0.1920.1080" timestamp="1598845471422" />
-    <state width="1493" height="88" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1600398874662" />
     <state width="1877" height="383" key="GridCell.Tab.0.left" timestamp="1600699795660">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1877" height="383" key="GridCell.Tab.0.left/-1920.0.1536.840/0.0.1920.1050@0.0.1920.1050" timestamp="1600699795660" />
-    <state width="1493" height="195" key="GridCell.Tab.0.left/0.0.1536.834/1920.0.1858.1080@0.0.1536.834" timestamp="1598585117063" />
-    <state width="1493" height="165" key="GridCell.Tab.0.left/0.0.1536.834/1920.0.1920.1080@0.0.1536.834" timestamp="1598782173009" />
-    <state width="1877" height="206" key="GridCell.Tab.0.left/0.0.1536.834/1920.0.1920.1080@1920.0.1920.1080" timestamp="1598845471422" />
-    <state width="1493" height="88" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1600398874662" />
     <state width="1877" height="383" key="GridCell.Tab.0.right" timestamp="1600699795660">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1877" height="383" key="GridCell.Tab.0.right/-1920.0.1536.840/0.0.1920.1050@0.0.1920.1050" timestamp="1600699795660" />
-    <state width="1493" height="195" key="GridCell.Tab.0.right/0.0.1536.834/1920.0.1858.1080@0.0.1536.834" timestamp="1598585117063" />
-    <state width="1493" height="165" key="GridCell.Tab.0.right/0.0.1536.834/1920.0.1920.1080@0.0.1536.834" timestamp="1598782173010" />
-    <state width="1877" height="206" key="GridCell.Tab.0.right/0.0.1536.834/1920.0.1920.1080@1920.0.1920.1080" timestamp="1598845471422" />
-    <state width="1493" height="88" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1600398874662" />
     <state width="1877" height="383" key="GridCell.Tab.1.bottom" timestamp="1600699795944">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -446,54 +449,24 @@
     <state x="240" y="-829" key="SettingsEditor" timestamp="1604304883262">
       <screen x="-221" y="-1057" width="1920" height="1057" />
     </state>
-    <state x="270" y="0" key="SettingsEditor/0.0.1536.834/1920.0.1858.1080@0.0.1536.834" timestamp="1598443081170" />
-    <state x="2272" y="128" key="SettingsEditor/0.0.1536.834/1920.0.1920.1080@1920.0.1920.1080" timestamp="1598601001357" />
-    <state x="234" y="124" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1600413296360" />
     <state x="240" y="-829" key="SettingsEditor/0.23.1440.822/-221.-1057.1920.1057@-221.-1057.1920.1057" timestamp="1604304883262" />
     <state x="535" y="312" width="702" height="395" key="StructurePopup" timestamp="1600651907284">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="535" y="312" width="702" height="395" key="StructurePopup/-1920.0.1536.840/0.0.1920.1050@0.0.1920.1050" timestamp="1600651907284" />
-    <state x="2462" y="276" width="561" height="405" key="StructurePopup/0.0.1536.834/1920.0.1920.1080@1920.0.1920.1080" timestamp="1598782898197" />
-    <state x="428" y="248" width="561" height="313" key="StructurePopup/0.0.1536.834@0.0.1536.834" timestamp="1600410280279" />
-    <state x="451" y="189" key="Vcs.Push.Dialog.v2" timestamp="1600437653830">
-      <screen x="0" y="0" width="1920" height="1050" />
+    <state x="339" y="-789" key="Vcs.Push.Dialog.v2" timestamp="1609210661617">
+      <screen x="-221" y="-1057" width="1920" height="1057" />
     </state>
-    <state x="451" y="189" key="Vcs.Push.Dialog.v2/-1920.0.1536.840/0.0.1920.1050@0.0.1920.1050" timestamp="1600437653830" />
-    <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1600399318864" />
+    <state x="339" y="-789" key="Vcs.Push.Dialog.v2/37.23.1403.877/-221.-1057.1920.1057@-221.-1057.1920.1057" timestamp="1609210661617" />
     <state x="716" y="415" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600651949891">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="716" y="415" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-1920.0.1536.840/0.0.1920.1050@0.0.1920.1050" timestamp="1600651949891" />
-    <state x="573" y="330" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.834@0.0.1536.834" timestamp="1600399239282" />
-    <state x="195" y="153" width="1146" height="640" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1598666124279">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state x="195" y="153" width="1146" height="640" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.834/1920.0.1858.1080@0.0.1536.834" timestamp="1598443280561" />
-    <state x="195" y="153" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.834/1920.0.1920.1080@0.0.1536.834" timestamp="1598666124279" />
-    <state x="2505" y="0" width="750" height="1080" key="find.popup" timestamp="1598601599856">
-      <screen x="1920" y="0" width="1920" height="1080" />
-    </state>
-    <state x="468" y="0" width="600" height="834" key="find.popup/0.0.1536.834/1920.0.1858.1080@0.0.1536.834" timestamp="1598443227057" />
-    <state x="2505" y="0" width="750" height="1080" key="find.popup/0.0.1536.834/1920.0.1920.1080@1920.0.1920.1080" timestamp="1598601599856" />
-    <state x="178" y="27" width="1194" height="779" key="new project wizard" timestamp="1598443204275">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state x="178" y="27" width="1194" height="779" key="new project wizard/0.0.1536.834/1920.0.1858.1080@0.0.1536.834" timestamp="1598443204275" />
-    <state x="425" y="189" key="run.anything.popup" timestamp="1600411732891">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state x="425" y="189" key="run.anything.popup/0.0.1536.834/1920.0.1858.1080@0.0.1536.834" timestamp="1598599469102" />
-    <state x="2451" y="245" key="run.anything.popup/0.0.1536.834/1920.0.1920.1080@1920.0.1920.1080" timestamp="1598783059802" />
-    <state x="425" y="189" key="run.anything.popup/0.0.1536.834@0.0.1536.834" timestamp="1600411732891" />
-    <state x="539" y="195" width="840" height="855" key="search.everywhere.popup" timestamp="1600689953866">
-      <screen x="0" y="0" width="1920" height="1050" />
+    <state x="318" y="-861" width="840" height="861" key="search.everywhere.popup" timestamp="1609230705630">
+      <screen x="-221" y="-1057" width="1920" height="1057" />
     </state>
     <state x="539" y="195" width="840" height="855" key="search.everywhere.popup/-1920.0.1536.840/0.0.1920.1050@0.0.1920.1050" timestamp="1600689953866" />
-    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834/1920.0.1858.1080@0.0.1536.834" timestamp="1598599507022" />
-    <state x="431" y="155" width="672" height="679" key="search.everywhere.popup/0.0.1536.834/1920.0.1920.1080@0.0.1536.834" timestamp="1598782199887" />
-    <state x="2459" y="201" width="840" height="878" key="search.everywhere.popup/0.0.1536.834/1920.0.1920.1080@1920.0.1920.1080" timestamp="1598784313946" />
-    <state x="431" y="155" width="672" height="679" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1600410238005" />
+    <state x="318" y="-861" width="840" height="861" key="search.everywhere.popup/37.23.1403.877/-221.-1057.1920.1057@-221.-1057.1920.1057" timestamp="1609230705630" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -594,17 +567,9 @@
           <option name="timeStamp" value="67" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/fosuchao/bytedance/enterprise/Num60.java</url>
+          <url>file://$PROJECT_DIR$/src/com/fosuchao/enterprise/bytedance/enterprise/Num60.java</url>
           <line>37</line>
           <option name="timeStamp" value="71" />
-        </line-breakpoint>
-        <line-breakpoint type="java-method">
-          <url>file://$PROJECT_DIR$/src/com/fosuchao/offer/FindGreatestSumOfArray.java</url>
-          <line>13</line>
-          <properties class="com.fosuchao.offer.FindGreatestSumOfArray" method="findGreatestSumOfArray">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="40" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />

@@ -21,11 +21,11 @@ public class Permutation {
         permutation(str.toCharArray(), 0);
     }
 
-    public void permutation(char[] charArrays, int start){
-        if(charArrays.length == start + 1) {
+    public void permutation(char[] charArrays, int start) {
+        if (charArrays.length == start + 1) {
             System.out.println(charArrays);
         } else {
-            for(int i = start; i < charArrays.length; i++) {
+            for (int i = start; i < charArrays.length; i++) {
                 char temp = charArrays[i];
                 charArrays[i] = charArrays[start];
                 charArrays[start] = temp;
