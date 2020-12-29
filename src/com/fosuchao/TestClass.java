@@ -1,10 +1,5 @@
 package com.fosuchao;
 
-import com.fosuchao.bytedance.datastructure.ListNode;
-import com.fosuchao.random.MaxRotate;
-import org.junit.Test;
-
-import java.util.*;
 import java.util.concurrent.locks.LockSupport;
 
 /**
