@@ -8,6 +8,7 @@ package com.fosuchao.type.string;
 public class CountAndSay {
 
     public String countAndSay(int n) {
+        // TODO: 2020/12/30  
         return "";
     }
 }
