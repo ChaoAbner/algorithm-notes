@@ -1,6 +1,6 @@
 package com.fosuchao.random;
 
-import org.junit.Test;
+
 
 import java.util.*;
 
@@ -38,7 +38,7 @@ public class MaxRotate {
         return max;
     }
 
-    @Test
+
     public void test(){
         String[] str = new String[]{"you", "wu"};
         List<String> strings = Arrays.asList(str);

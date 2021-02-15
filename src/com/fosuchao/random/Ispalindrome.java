@@ -1,6 +1,6 @@
 package com.fosuchao.random;
 
-import org.junit.Test;
+
 
 /**
  * @Description: ������
@@ -94,7 +94,7 @@ public class Ispalindrome {
      * @return void
      */
 
-    @Test
+
     public void test(){
 
     }

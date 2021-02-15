@@ -1,6 +1,6 @@
 package com.fosuchao.random;
 
-import org.junit.Test;
+
 
 import java.util.Arrays;
 import java.util.Date;
@@ -50,7 +50,7 @@ public class ReorderedPowerOf2 {
 
 
 
-    @Test
+
     public void test(){
         long start = System.nanoTime();
         UUID uuid = UUID.randomUUID();

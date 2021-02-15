@@ -1,6 +1,6 @@
 package com.fosuchao.random;
 
-import org.junit.Test;
+
 
 /**
  * @Description: ʵ��strStr()���� https://leetcode-cn.com/problems/implement-strstr/
@@ -35,7 +35,7 @@ public class realizestrStr {
         return pos;
     }
 
-    @Test
+
     public void test(){
         String testStr1 = "abcd";
         String testStr2 = "abc";

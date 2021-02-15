@@ -1,6 +1,6 @@
 package com.fosuchao.random;
 
-import org.junit.Test;
+
 
 /**
  * @Description: z���α任
@@ -152,7 +152,7 @@ public class Convert {
      */
 
 
-    @Test
+
     public void test(){
         String[][] testList = new String[10][10];
 

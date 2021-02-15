@@ -1,6 +1,6 @@
 package com.fosuchao.random;
 
-import org.junit.Test;
+
 
 import java.util.Arrays;
 import java.util.Stack;
@@ -47,7 +47,7 @@ public class SimplifyPath {
         return res.toString();
     }
 
-    @Test
+
     public void test(){
 
         String s = "/abc/...";

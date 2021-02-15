@@ -1,6 +1,6 @@
 package com.fosuchao.random;
 
-import org.junit.Test;
+
 
 import java.util.Arrays;
 
@@ -45,7 +45,7 @@ public class Reverse {
         return rev;
     }
 
-    @Test
+
     public void test(){
         int num = 123;
         // תΪ����

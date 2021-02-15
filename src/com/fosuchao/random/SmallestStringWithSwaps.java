@@ -1,6 +1,6 @@
 package com.fosuchao.random;
 
-import org.junit.Test;
+
 
 import java.util.List;
 
@@ -43,7 +43,7 @@ public class SmallestStringWithSwaps {
         return "s";
     }
 
-    @Test
+
     public void test(){
         String a = "dcab";
 

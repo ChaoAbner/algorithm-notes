@@ -1,6 +1,6 @@
 package com.fosuchao.random;
 
-import org.junit.Test;
+
 
 /**
  * @Description: ���ַ�������Ļ�����
@@ -50,7 +50,7 @@ public class LongestPalindrome {
         return R - L - 1;
     }
 
-    @Test
+
     public void test(){
         String test = "lzbabadcda";
         String longestStr = "";

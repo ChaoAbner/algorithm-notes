@@ -1,6 +1,6 @@
 package com.fosuchao.random;
 
-import org.junit.Test;
+
 
 import java.util.Arrays;
 import java.util.HashSet;
@@ -61,7 +61,7 @@ public class LengthOfLongestSubstring {
 //    �ص����ǵ����⣬����ʹ�� HashSet ���ַ��洢�ڵ�ǰ���� [i, j)[i,j)����� j = ij=i���С� Ȼ���������Ҳ໬������ jj����������� HashSet �У����ǻ�������� jj��ֱ�� s[j] �Ѿ������� HashSet �С���ʱ�������ҵ���û���ظ��ַ�������ַ������������� ii ��ͷ��������Ƕ����е� ii ���������Ϳ��Եõ��𰸡�
 //
 //    Java
-    @Test
+
     public void lengthOfLongestSubstring1() {
         String s = "pwwkew";
         int n = s.length();
@@ -126,7 +126,7 @@ public class LengthOfLongestSubstring {
 //    int [128] ����ASCII��
 //    int [256] ������չASCII��
 //            Java
-    @Test
+
     public void lengthOfLongestSubstring3() {
         String s = "pwwkew";
         int n = s.length(), ans = 0;
@@ -141,7 +141,7 @@ public class LengthOfLongestSubstring {
     }
 
 
-    @Test
+
     public void test(){
         String s = "pwwkew";
         int[] index = new int[128];

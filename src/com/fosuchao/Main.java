@@ -1,6 +1,6 @@
 package com.fosuchao;
 
-import org.junit.Test;
+
 
 import java.util.*;
 
@@ -74,7 +74,7 @@ public class Main {
     }
 
 
-    @Test
+
     public void test() {
         String a = "123.22";
         double n1 = Double.valueOf(a);

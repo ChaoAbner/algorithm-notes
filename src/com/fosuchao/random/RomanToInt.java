@@ -1,6 +1,6 @@
 package com.fosuchao.random;
 
-import org.junit.Test;
+
 
 import java.util.HashMap;
 
@@ -56,7 +56,7 @@ public class RomanToInt {
         }
     }
 
-    @Test
+
     public void test(){
 
     }

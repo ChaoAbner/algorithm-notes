@@ -1,7 +1,5 @@
 package com.fosuchao.offer;
 
-import org.junit.rules.TestName;
-
 import java.awt.*;
 
 /**

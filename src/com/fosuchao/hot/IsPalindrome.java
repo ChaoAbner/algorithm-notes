@@ -1,7 +1,6 @@
 package com.fosuchao.hot;
 
 import com.fosuchao.random.Ispalindrome;
-import org.hamcrest.core.Is;
 
 import java.util.Stack;
 

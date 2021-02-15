@@ -1,6 +1,5 @@
 package com.fosuchao.hot;
 
-import org.junit.Test;
 
 import java.text.SimpleDateFormat;
 import java.util.*;
@@ -39,7 +38,6 @@ public class GroupAnagrams {
         }
     }
 
-    @Test
     public void test(){
         String[] strs = {"eat", "tea", "tan", "ate", "nat", "bat"};
         char[] chars = strs[0].toCharArray();
